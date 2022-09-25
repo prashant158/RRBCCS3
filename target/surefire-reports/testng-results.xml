@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-25T12:12:20Z" name="All Test Suite" finished-at="2022-09-25T12:12:45Z" duration-ms="24929">
+    <groups>
+    </groups>
+    <test started-at="2022-09-25T12:12:20Z" name="C:/Users/Prashantb/IdeaProjects/RRBCCS3" finished-at="2022-09-25T12:12:45Z" duration-ms="24929">
+      <class name="LoginOperation">
+        <test-method is-config="true" signature="initbrowser()[pri:0, instance:LoginOperation@44a7bfbc]" started-at="2022-09-25T12:12:20Z" name="initbrowser" description="browser invoked" finished-at="2022-09-25T12:12:35Z" duration-ms="15035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initbrowser -->
+        <test-method signature="ClickonMemebersLoginLink()[pri:0, instance:LoginOperation@44a7bfbc]" started-at="2022-09-25T12:12:35Z" name="ClickonMemebersLoginLink" description="Login into connect application..." finished-at="2022-09-25T12:12:43Z" duration-ms="7430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickonMemebersLoginLink -->
+        <test-method signature="validatehomePageHeading()[pri:0, instance:LoginOperation@44a7bfbc]" started-at="2022-09-25T12:12:43Z" name="validatehomePageHeading" description="Validate home page title" finished-at="2022-09-25T12:12:43Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatehomePageHeading -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:LoginOperation@44a7bfbc]" started-at="2022-09-25T12:12:43Z" name="closeBrowser" description="Browser Closed" finished-at="2022-09-25T12:12:45Z" duration-ms="2430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- LoginOperation -->
+    </test> <!-- C:/Users/Prashantb/IdeaProjects/RRBCCS3 -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
